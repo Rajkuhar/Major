@@ -36,7 +36,7 @@
 
 ```bash
 # Clone the repository
-$ git clone git@github.com:kennedybarros/repsonsive-website-playstation.git
+$ git clone git@github.com:Rajkuhar/repsonsive-website-playstation.git
 
 # Enter directory
 $ cd repsonsive-website-playstation
