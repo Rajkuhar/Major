@@ -3,9 +3,7 @@
 </h1>
 
 
-<h1 align="center">
-    <img src="./banner.png">
-</h1>
+
 
 <h3 align="center">You can access the project <a href="https://major-rho.vercel.app/" target="_blank">Clicking here</a></h3>
 
